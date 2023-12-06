@@ -1,4 +1,4 @@
-## Conversor de Divisas
+## Conversor de Divisas Java
 Este proyecto consiste en un conversor de divisas que utiliza una API externa (Exchange Rates) para proporcionar tasas de cambio en tiempo real. El objetivo principal es brindar una herramienta útil para realizar conversiones precisas y rápidas entre diferentes monedas.
 
 ### Pantalla de Inicio
